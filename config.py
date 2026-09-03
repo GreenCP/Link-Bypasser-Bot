@@ -4,7 +4,7 @@ Get_ENV = False
 # Required if Get_ENV == False
 Vars = [
     # Bot API Token
-    "",
+    "8847981780:AAFfiVC6zVFstjLunm2asT-mQXM8Tc5doTk",
     # GdToT Crypt
     "",
     # Laravel Session
@@ -24,9 +24,6 @@ Vars = [
 ]
 
 # AppDrive or DriveApp Account credentials
-# To bypass limits imposed on Anonymous users
-# Will also work/used for look-a-like sites
-
 Creds = [
     # AppDrive/DriveApp Email ID
     "",
