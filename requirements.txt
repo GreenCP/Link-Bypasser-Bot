@@ -6,3 +6,4 @@ pyTelegramBotAPI
 lxml
 lk21
 cfscrape
+urllib3<2.0.0
